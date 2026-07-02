@@ -45,47 +45,9 @@
 
 ---
 
-## 🚀 Featured Projects:
-
-### 🦀 Rusty Drone — Embedded Rust Drone Project
-Built a compact drone project using embedded Rust and Embassy, with flight-control logic running on an STM32 Nucleo U545RE-Q microcontroller and wireless functionality handled by ESP32-CAM.
-
-Worked with brushless motors, a 4-in-1 ESC, MPU6050 IMU, BMP280 barometer, LiPo battery, DShot150 motor control, STM32 timers, DMA, sensor processing, and stabilization logic.
-
-### 🐧 Kernel Tracepoint eBPF Dashboard
-Built a Linux monitoring dashboard using eBPF, BCC, Python, and Flask to observe kernel events such as process execution and file open attempts.
-
-Implemented a loader and collector that attaches eBPF programs to syscall tracepoints, reads events through perf buffers, and exposes them through a Flask REST API.
-
-### 🚦 Traffic Flower — Smart City Traffic Management System
-Built and deployed a full-stack traffic monitoring platform using React, Node.js, and PostgreSQL through Supabase.
-
-Implemented JWT-based authentication, secure REST API endpoints, Row-Level Security, an interactive map, and an analytics dashboard.
-
-### ✈️ SkyKit Optimizer — HACKITALL 2025
-Built a full-stack TypeScript airline logistics optimization system during a 48-hour hackathon.
-
-Designed adaptive purchasing and loading strategies using dataset calibration and penalty analysis, and developed a React dashboard for real-time monitoring of cost, penalties, and inventory levels.
-
-### 🤖 AnaBot — Virtual Counselor for International Students
-Developed a TypeScript-based chatbot using Google AI Studio and the Gemini API to help international students understand university regulations and administrative processes.
-
----
-
-## 🏆 Achievements:
-
-🏅 8th Place & Honorable Mention — HACKITALL 2025, SAP 48H Section  
-💡 Participant — Perpetuum Hackathon 2025  
-📚 2 accepted projects — Students’ Scientific Communication Session 2025  
-🗄️ Participant — EDB StartUP, National Database Modelling Competition  
-🥇 Regional Stage — Romania’s National Informatics Olympiad, 2021–2023  
-⭐ Special Prize at the 2021 National Informatics Olympiad regional stage  
-
----
-
 ## 📊 GitHub Stats:
 
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anto987678&show_icons=true&theme=default&hide_border=false)
+![Antonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anto987678&show_icons=true&theme=default&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false)
 

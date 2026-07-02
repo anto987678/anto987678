@@ -51,7 +51,35 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anto987678&layout=compact&langs_count=8&hide_border=false)
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anto987678&theme=default" 
+    alt="GitHub Profile Details" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anto987678&theme=default" 
+    alt="Top Languages by Repository" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anto987678&theme=default" 
+    alt="Top Languages by Commit" 
+  />
+</p>
 
 ---
 

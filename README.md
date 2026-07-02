@@ -81,4 +81,3 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-anto987678-181717?style=for-the-badge&logo=github)](https://github.com/anto987678)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana--Antonia%20Duțu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ana-antonia-dutu)
-[![Email](https://img.shields.io/badge/Email-antodutu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antodutu@gmail.com)

@@ -51,7 +51,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anto987678&layout=compact&langs_count=8&hide_border=false)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anto987678&amp;layout=compact&amp;langs_count=8&amp;hide_border=false" 
+    alt="Top Languages" 
+  />
+</p>
 
 ---
 

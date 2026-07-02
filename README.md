@@ -47,12 +47,6 @@
 
 ## 📊 GitHub Stats:
 
-![Antonia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anto987678&show_icons=true&theme=default&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false)
-
-## 📊 GitHub Stats:
-
 <p align="left">
   <img 
     src="https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false" 

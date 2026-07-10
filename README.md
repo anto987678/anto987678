@@ -64,18 +64,18 @@
   />
 
   <br><br>
-<p align="left">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anto987678&theme=default" 
-    alt="Top Languages by Repository" 
-  />
-</p>
-
-<p align="left">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anto987678&theme=default" 
-    alt="Top Languages by Commit" 
-  />
+  <p align="center">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anto987678&theme=default" 
+      alt="Top Languages by Repository" 
+    />
+  </p>
+  
+  <p align="center">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anto987678&theme=default" 
+      alt="Top Languages by Commit" 
+    />
 
 </div>
 

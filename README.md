@@ -64,12 +64,13 @@
   />
 
   <br><br>
-
+<p align="center">
   <img
-    src="./langs-chart/donut.svg"
-    alt="Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anto987678&layout=donut&theme=default&bg_color=ffffff&title_color=24292f&text_color=24292f&hide_border=true&langs_count=8&stats_format=bytes"
+    alt="Top Languages"
     width="420"
   />
+</p>
 
 </div>
 

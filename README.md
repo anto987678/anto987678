@@ -47,21 +47,31 @@
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false" 
-    alt="GitHub Streak" 
-  />
-</p>
+<div align="center">
 
-<p align="left">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anto987678&theme=default" 
-    alt="GitHub Profile Details" 
+  <img
+    src="https://streak-stats.demolab.com?user=anto987678&theme=default&hide_border=false"
+    alt="GitHub Streak"
+    width="500"
   />
-</p>
 
-![Languages](./langs-chart/donut.svg)
+  <br><br>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anto987678&theme=default"
+    alt="GitHub Profile Details"
+    width="700"
+  />
+
+  <br><br>
+
+  <img
+    src="./langs-chart/donut.svg"
+    alt="Languages"
+    width="420"
+  />
+
+</div>
 
 ---
 

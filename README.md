@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-💼 **I'm currently working as a Junior Digital Identity Consultant at IT Smart Systems**, exploring Identity and Access Management (IAM), authentication, and authorization technologies.
+💼 **I'm currently working as a Junior Digital Identity Consultant**, exploring Identity and Access Management (IAM), authentication, and authorization technologies.
 
 🔐 **I'm currently learning** more about Ping Identity (PingAM & PingOne Advanced Identity Cloud), OAuth 2.0, OpenID Connect, SSO, and identity security.
 

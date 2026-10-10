@@ -3,10 +3,15 @@
 ## 💫 About Me:
 
 💼 **I'm currently working as a Junior Digital Identity Consultant at IT Smart Systems**, exploring Identity and Access Management (IAM), authentication, and authorization technologies.
+
 🔐 **I'm currently learning** more about Ping Identity (PingAM & PingOne Advanced Identity Cloud), OAuth 2.0, OpenID Connect, SSO, and identity security.
+
 🔭 **I'm interested in** software engineering, full-stack development, embedded systems, and IoT projects.
+
 🌱 **I'm continuously expanding my knowledge** in systems programming, software architecture, and modern development technologies.
+
 ⚡ **I enjoy building projects** that combine software, hardware, databases, and problem-solving, while exploring new technologies.
+
 🎓 **I'm a third-year Computer Engineering student** at the National University of Science and Technology POLITEHNICA Bucharest — FILS, IoT program.
 ---
 

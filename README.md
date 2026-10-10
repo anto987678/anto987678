@@ -13,6 +13,7 @@
 ⚡ **I enjoy building projects** that combine software, hardware, databases, and problem-solving, while exploring new technologies.
 
 🎓 **I'm a third-year Computer Engineering student** at the National University of Science and Technology POLITEHNICA Bucharest — FILS, IoT program.
+
 ---
 
 ## 💻 Tech Stack:

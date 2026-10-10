@@ -40,6 +40,16 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
+
+### Identity & Security (Currently Learning)
+![IAM](https://img.shields.io/badge/Identity_&_Access_Management-3949AB?style=for-the-badge)
+![Ping Identity](https://img.shields.io/badge/Ping_Identity-173B57?style=for-the-badge)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=for-the-badge)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-0A66C2?style=for-the-badge)
+![SSO](https://img.shields.io/badge/Single_Sign--On-6366F1?style=for-the-badge)
+![PKCE](https://img.shields.io/badge/PKCE-475569?style=for-the-badge)
+
+
 ### Embedded, Systems & Tools
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
